@@ -1,9 +1,9 @@
-# Identify and classify Twitter bot accounts
+# Identify and Classify Twitter Bot Accounts 🤖
 This in-class kaggle competition is to solve an anomaly detection problem. Your task is to develop a machine learning model to distinguish bot users from genuine users based on a given dataset of Twitter accounts. This competition will give you hands-on experience with data preprocessing, feature engineering, model training, and evaluation.
 
 Twitter bots can be used for a range of activities, from spreading spam to disinformation campaigns. Accurately identifying these bots is crucial for maintaining the integrity of social media platforms. You will be provided with a dataset containing various features extracted from Twitter profiles, and your goal is to use this data to build a predictive model that can detect bots.
 
-## Files
+## Files 📁
 - `train.csv` - the training set
 - `test.csv` - the test set
 - `sample_submission.csv` - a sample submission file in the correct format
@@ -28,3 +28,6 @@ Twitter bots can be used for a range of activities, from spreading spam to disin
 - `average_tweets_per_day` - The average number of tweets posted per day.
 - `account_age_days` - The age of the account in days.
 - `target` - The classification label indicating whether the account is a bot or not. 1 means it is a bot.
+
+## Result 🏆
+The final submission, submission_lgb_pruned_oct12.csv, ranked 10th overall on the classroom leaderboard — out of 2,214 total submissions and 117 participants.
