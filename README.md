@@ -30,4 +30,4 @@ Twitter bots can be used for a range of activities, from spreading spam to disin
 - `target` - The classification label indicating whether the account is a bot or not. 1 means it is a bot.
 
 ## Result 🏆
-The final submission, submission_lgb_pruned_oct12.csv, ranked 10th overall on the classroom leaderboard — out of 2,214 total submissions and 117 participants.
+The final submission, `submission_lgb_pruned_oct12.csv`, ranked 10th overall on the classroom leaderboard — out of 2,214 total submissions and 117 participants.
